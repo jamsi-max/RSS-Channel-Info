@@ -1,5 +1,11 @@
 .vscode/
+
 rss
+
 .env
+
 thunder-tests/
+
 note
+
+docker-compose.yml
